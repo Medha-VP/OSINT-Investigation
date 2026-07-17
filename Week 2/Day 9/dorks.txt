@@ -1,0 +1,10 @@
+site:ibm.com filetype:pdf
+site:ibm.com filetype:xlsx
+site:ibm.com inurl:login
+site:ibm.com intitle:"Login"
+site:ibm.com filetype:txt
+site:ibm.com ext:xml
+site:ibm.com intitle:"index of"
+site:ibm.com ext:log
+site:ibm.com filetype:conf
+site:ibm.com filetype:ini

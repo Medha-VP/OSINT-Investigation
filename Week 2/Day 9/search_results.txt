@@ -1,0 +1,63 @@
+DAY 9 - SEARCH AUTOMATION LOG
+============================================================
+
+Search 1
+Time : 15-07-2026 20:43:58
+Dork : site:ibm.com filetype:pdf
+URL  : https://www.google.com/search?q=site%3Aibm.com%20filetype%3Apdf
+Status : Opened Successfully
+------------------------------------------------------------
+Search 2
+Time : 15-07-2026 20:44:03
+Dork : site:ibm.com filetype:xlsx
+URL  : https://www.google.com/search?q=site%3Aibm.com%20filetype%3Axlsx
+Status : Opened Successfully
+------------------------------------------------------------
+Search 3
+Time : 15-07-2026 20:44:08
+Dork : site:ibm.com inurl:login
+URL  : https://www.google.com/search?q=site%3Aibm.com%20inurl%3Alogin
+Status : Opened Successfully
+------------------------------------------------------------
+Search 4
+Time : 15-07-2026 20:44:13
+Dork : site:ibm.com intitle:"Login"
+URL  : https://www.google.com/search?q=site%3Aibm.com%20intitle%3A%22Login%22
+Status : Opened Successfully
+------------------------------------------------------------
+Search 5
+Time : 15-07-2026 20:44:18
+Dork : site:ibm.com filetype:txt
+URL  : https://www.google.com/search?q=site%3Aibm.com%20filetype%3Atxt
+Status : Opened Successfully
+------------------------------------------------------------
+Search 6
+Time : 15-07-2026 20:44:23
+Dork : site:ibm.com ext:xml
+URL  : https://www.google.com/search?q=site%3Aibm.com%20ext%3Axml
+Status : Opened Successfully
+------------------------------------------------------------
+Search 7
+Time : 15-07-2026 20:44:28
+Dork : site:ibm.com intitle:"index of"
+URL  : https://www.google.com/search?q=site%3Aibm.com%20intitle%3A%22index%20of%22
+Status : Opened Successfully
+------------------------------------------------------------
+Search 8
+Time : 15-07-2026 20:44:34
+Dork : site:ibm.com ext:log
+URL  : https://www.google.com/search?q=site%3Aibm.com%20ext%3Alog
+Status : Opened Successfully
+------------------------------------------------------------
+Search 9
+Time : 15-07-2026 20:44:39
+Dork : site:ibm.com filetype:conf
+URL  : https://www.google.com/search?q=site%3Aibm.com%20filetype%3Aconf
+Status : Opened Successfully
+------------------------------------------------------------
+Search 10
+Time : 15-07-2026 20:44:44
+Dork : site:ibm.com filetype:ini
+URL  : https://www.google.com/search?q=site%3Aibm.com%20filetype%3Aini
+Status : Opened Successfully
+------------------------------------------------------------
