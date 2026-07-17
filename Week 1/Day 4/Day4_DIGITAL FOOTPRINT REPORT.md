@@ -1,9 +1,10 @@
-# ~~ee~~ 
+## **DIGITAL FOOTPRINT REPORT**
 
+Target Organization: Loop Health
 
+## **1. About the Company**
+Loop Health is an Indian HealthTech startup that combines health insurance with preventive healthcare services. The company focuses on improving employee health by providing health insurance, telemedicine, primary healthcare, doctor consultations, wellness programs, and healthcare management through a digital platform. Its goal is to shift healthcare from treating illness to preventing it, helping people live healthier lives. 
 
-<!-- Start of picture text -->
-looye. Product v Manifesto Resources  Aboutus Careers Claims Helpline Request a Demo<br>Making healthcare<br>We're building a brand new healthcare platform that ensures<br>financial protection from health risks and improves health outcomes<br>(ra<br>|<br>#4 € 4 ' ‘ae 6 ; we =!<br>a Za + atw \ \ - : Be ow<br><!-- End of picture text -->
 
 ## **2. Company Profile** 
 
